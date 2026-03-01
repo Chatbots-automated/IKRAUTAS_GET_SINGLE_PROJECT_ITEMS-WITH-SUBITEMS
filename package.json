@@ -1,6 +1,5 @@
 {
-  "name": "monday-pagination-api",
+  "name": "monday-vercel-pagination",
   "private": true,
-  "type": "module",
-  "dependencies": {}
+  "type": "module"
 }
